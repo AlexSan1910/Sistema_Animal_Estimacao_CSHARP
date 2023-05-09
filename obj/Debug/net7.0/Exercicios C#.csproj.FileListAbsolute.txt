@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\bin\Debug\net7.0\Exercicios C#.exe
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\bin\Debug\net7.0\Exercicios C#.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\bin\Debug\net7.0\Exercicios C#.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\bin\Debug\net7.0\Exercicios C#.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\bin\Debug\net7.0\Exercicios C#.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\refint\Exercicios C#.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\Exercicios C#.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\obj\Debug\net7.0\ref\Exercicios C#.dll
